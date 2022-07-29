@@ -1,0 +1,2 @@
+This Recipes project will be built following instructions on The Odin Project website.
+I will be using this to gain practical experience using just HTML and CSS to build up muscle memory using these tools.
